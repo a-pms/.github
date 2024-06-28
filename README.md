@@ -1,2 +1,1 @@
-# .github
-Patient Managment System
+# Patient Managment System
